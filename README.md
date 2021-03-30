@@ -4,6 +4,7 @@ This is a simple loan vanilla javascript loan calculator </br>
 </br>
 ## Technologies used 
 - Javascript ES6 </br>
+- HTMLS 5 </br>
 - Bootstrap 5 </br>
 - Netlify (deployment)</br>
 </br>
