@@ -11,4 +11,4 @@ This is a simple loan vanilla javascript loan calculator </br>
 </br>
 Find Demo here : https://gifted-rosalind-d06392.netlify.app/ </br>
 </br>
-Your review is always through lawal.olaotan@yahoo.com
+Your review is always welcomed you can email me : lawal.olaotan@yahoo.com
