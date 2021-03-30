@@ -8,3 +8,12 @@
 /* .d-grid{
     margin: .8rem 0;
 } */
+
+
+.loading , .results{
+    display: none;
+}
+
+.activated{
+    display: block;
+}
